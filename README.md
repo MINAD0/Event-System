@@ -79,7 +79,8 @@ Usage
 Provide instructions on how to use your project. Explain its main features and how users can interact with it. Include any sample commands or URLs. For example:
 
 To access the admin panel, go to http://localhost:8000/admin/ (admin credentials needed).
-To browse the event catalog, visit http://localhost:8000/events/.
+To browse the event catalog, visit http://localhost:8000/index/.
+to browse the login page http://localhost:8000/login/
 Contributing
 Explain how others can contribute to your project. Include guidelines for submitting issues, feature requests, or pull requests.
 
